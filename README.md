@@ -1,1 +1,1 @@
-# gabs-alura
+# alura de pensamento: projeto dos filmes :)
